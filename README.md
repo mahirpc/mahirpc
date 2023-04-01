@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 you can reach me on pcmuhammedmahir@gmail.com
  
-<img src="[https://media3.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.gif?autoplay=1](https://media1.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.gif?cid=ecf05e47zokhi610bmiua5zp6b8julavc2e1oyg4hdthmy22&rid=giphy.gif&ct=g)"/>
+<img src="https://media3.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.gif?cid=ecf05e478nzvgzb4go01dip1ldak4zx92on1a1s3lzicibze&rid=giphy.gif&ct=g&autoplay=2"/>
 
 
 
