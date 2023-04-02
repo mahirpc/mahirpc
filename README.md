@@ -1,4 +1,4 @@
-#- 👋 Hi, I’m Muhammed Mahir P C <b>
+# - 👋 Hi, I’m Muhammed Mahir P C <b>
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on ...
