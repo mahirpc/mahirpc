@@ -13,6 +13,7 @@
  - [x] ![HTML5](https://img.shields.io/badge/HTML5-092E20?style=flat-square&logo=html5&logoColor=white) HTML 
  - [x] ![CSS](https://img.shields.io/badge/CSS-092K20?style=flat-square&logo=CascadingStyleSheets&logoColor=white) CSS
  - [x] ![Bootstrap](https://img.shields.io/badge/Bootstrap-573D7C?style=flat-square&logo=bootstrap&logoColor=white) Bootstrap
+ - [x] ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-573D7C?style=flat-square&logo=tailwindcss&logoColor=white) TailwindCSS
  - [x] ![JS](https://img.shields.io/badge/JS-20C4CB?style=flat-square&logo=javascript&logoColor=white) Javascript
  - [x] ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) Python
  - [x] ![ML](https://img.shields.io/badge/ML-bd9bef?style=flat-square&logo=machinelearning&logoColor=blue) Machine Learning
